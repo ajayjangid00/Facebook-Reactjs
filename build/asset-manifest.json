@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0a6eff1.css",
+    "main.js": "/static/js/main.8a842619.js",
+    "static/js/787.1262eb3f.chunk.js": "/static/js/787.1262eb3f.chunk.js",
+    "static/media/add.gif": "/static/media/add.c2d231f1e92d96e97339.gif",
+    "static/media/multiply.gif": "/static/media/multiply.4dafa0f4effe33700c05.gif",
+    "static/media/teamwork.png": "/static/media/teamwork.b1cbd71805e81017f3a1.png",
+    "static/media/friends.png": "/static/media/friends.9e9bf32bc1e21f3ffa25.png",
+    "static/media/empty-cart.png": "/static/media/empty-cart.f70a01629a82e2c4c310.png",
+    "static/media/cross.png": "/static/media/cross.a9ffce463d53f136f181.png",
+    "static/media/home-button.png": "/static/media/home-button.e95dc55ded1223e56e5b.png",
+    "static/media/clapperboard.png": "/static/media/clapperboard.7cdc591c030fe3ac7933.png",
+    "static/media/rocket.png": "/static/media/rocket.b58a9096fceb35409309.png",
+    "static/media/user.png": "/static/media/user.45a0af68515332b42be9.png",
+    "static/media/3d-rendering-icon-social-media-facebook_667163-168.webp": "/static/media/3d-rendering-icon-social-media-facebook_667163-168.b3e7646be4a3a991b840.webp",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.c2088307817aef41b4ba.png",
+    "static/media/active.png": "/static/media/active.b738168287de7cc1238c.png",
+    "static/media/like.png": "/static/media/like.4dc9f877cbe9cacc9afc.png",
+    "static/media/dislike.png": "/static/media/dislike.65158494e8d1bebc4a45.png",
+    "static/media/instagram-live.png": "/static/media/instagram-live.9c5d167eddc145e8e25b.png",
+    "static/media/store.png": "/static/media/store.d5d8f372b6438c4423bd.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e0a6eff1.css.map": "/static/css/main.e0a6eff1.css.map",
+    "main.8a842619.js.map": "/static/js/main.8a842619.js.map",
+    "787.1262eb3f.chunk.js.map": "/static/js/787.1262eb3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0a6eff1.css",
+    "static/js/main.8a842619.js"
+  ]
+}
